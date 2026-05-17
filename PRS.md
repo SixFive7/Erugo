@@ -4,10 +4,10 @@ This fork hosts four in-flight PRs against [ErugoOSS/Erugo](https://github.com/E
 
 | # | Branch | Worktree | PR | Status |
 |---|--------|----------|----|--------|
-| 1 | `feat/i18n-nl-quality` | `C:\Source\SixFive7\Erugo-pr-i18n` | _not opened_ | branch ready |
-| 2 | `feat/users-form-autocomplete` | `C:\Source\SixFive7\Erugo-pr-autocomplete` | _not opened_ | branch ready |
+| 1 | `feat/i18n-nl-quality` | `C:\Source\SixFive7\Erugo-pr-i18n` | [#235](https://github.com/ErugoOSS/Erugo/pull/235) | in review |
+| 2 | `feat/users-form-autocomplete` | `C:\Source\SixFive7\Erugo-pr-autocomplete` | [#236](https://github.com/ErugoOSS/Erugo/pull/236) | in review |
 | 3 | `feat/auth-auto-redirect-single-sso` | `C:\Source\SixFive7\Erugo-pr-oidc` | [#237](https://github.com/ErugoOSS/Erugo/pull/237) | in review |
-| 4 | `feat/docker-shares-path-env` | `C:\Source\SixFive7\Erugo-pr-shares` | _not opened_ | branch ready |
+| 4 | `feat/docker-shares-path-env` | `C:\Source\SixFive7\Erugo-pr-shares` | [#234](https://github.com/ErugoOSS/Erugo/pull/234) | in review |
 
 ## Scope per PR
 
