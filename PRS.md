@@ -6,7 +6,7 @@ This fork hosts four in-flight PRs against [ErugoOSS/Erugo](https://github.com/E
 |---|--------|----------|----|--------|
 | 1 | `feat/i18n-nl-quality` | `C:\Source\SixFive7\Erugo-pr-i18n` | _not opened_ | branch ready |
 | 2 | `feat/users-form-autocomplete` | `C:\Source\SixFive7\Erugo-pr-autocomplete` | _not opened_ | branch ready |
-| 3 | `feat/auth-auto-redirect-single-sso` | `C:\Source\SixFive7\Erugo-pr-oidc` | _not opened_ | branch ready |
+| 3 | `feat/auth-auto-redirect-single-sso` | `C:\Source\SixFive7\Erugo-pr-oidc` | [#237](https://github.com/ErugoOSS/Erugo/pull/237) | in review |
 | 4 | `feat/docker-shares-path-env` | `C:\Source\SixFive7\Erugo-pr-shares` | _not opened_ | branch ready |
 
 ## Scope per PR
